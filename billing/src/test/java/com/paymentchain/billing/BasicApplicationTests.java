@@ -11,7 +11,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		String message = "default message cambio test devops";
+		String message = "Enable @SpringBootTest on BasicApplicationTests, default message cambio test devops";
 		Assert.assertNotNull(message);
 	}
 
